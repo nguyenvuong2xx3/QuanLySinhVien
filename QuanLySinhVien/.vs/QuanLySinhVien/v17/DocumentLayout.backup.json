@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A03D9829-D207-4711-9681-FC3BDD3807D6}|Repisitory\\Repository.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\repisitory\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03D9829-D207-4711-9681-FC3BDD3807D6}|Repisitory\\Repository.csproj|solutionrelative:repisitory\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\scoresstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\scoresstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03D9829-D207-4711-9681-FC3BDD3807D6}|Repisitory\\Repository.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\repisitory\\diemsvrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03D9829-D207-4711-9681-FC3BDD3807D6}|Repisitory\\Repository.csproj|solutionrelative:repisitory\\diemsvrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03D9829-D207-4711-9681-FC3BDD3807D6}|Repisitory\\Repository.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\repisitory\\idiemsvrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03D9829-D207-4711-9681-FC3BDD3807D6}|Repisitory\\Repository.csproj|solutionrelative:repisitory\\idiemsvrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\studentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\studentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\windowstudents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\windowstudents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03D9829-D207-4711-9681-FC3BDD3807D6}|Repisitory\\Repository.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\repisitory\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A03D9829-D207-4711-9681-FC3BDD3807D6}|Repisitory\\Repository.csproj|solutionrelative:repisitory\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\topsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\topsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\diemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\diemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\model\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E646BF6E-306C-48F6-91C0-9BBA3EDBB9C6}|Model\\Model.csproj|solutionrelative:model\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|c:\\users\\trand\\onedrive\\desktop\\quanlysinhvien\\quanlysinhvien\\main\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2D0855-6DC1-472A-A6FA-378F5EEA8B1D}|Main\\Main.csproj|solutionrelative:main\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.csproj",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\Main.csproj",
+              "RelativeDocumentMoniker": "Main\\Main.csproj",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\Main.csproj",
+              "RelativeToolTip": "Main\\Main.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T01:38:54.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\Login.xaml",
+              "RelativeDocumentMoniker": "Main\\Login.xaml",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\Login.xaml",
+              "RelativeToolTip": "Main\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T01:37:24.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Repisitory\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Repisitory\\AccountRepo.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Repisitory\\AccountRepo.cs",
+              "RelativeToolTip": "Repisitory\\AccountRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:39:09.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Repisitory\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repisitory\\Repository.csproj",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Repisitory\\Repository.csproj",
+              "RelativeToolTip": "Repisitory\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T18:43:01.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoresStudent.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\ScoresStudent.cs",
+              "RelativeDocumentMoniker": "Model\\ScoresStudent.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\ScoresStudent.cs",
+              "RelativeToolTip": "Model\\ScoresStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:23.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\appsettings.json",
+              "RelativeDocumentMoniker": "Main\\appsettings.json",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\appsettings.json",
+              "RelativeToolTip": "Main\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T18:34:40.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\StudentWindow.xaml",
+              "RelativeDocumentMoniker": "Main\\StudentWindow.xaml",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\StudentWindow.xaml",
+              "RelativeToolTip": "Main\\StudentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T01:42:40.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowStudents.xaml",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\WindowStudents.xaml",
+              "RelativeDocumentMoniker": "Main\\WindowStudents.xaml",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\WindowStudents.xaml",
+              "RelativeToolTip": "Main\\WindowStudents.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T01:45:17.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiemsvRepo.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Repisitory\\DiemsvRepo.cs",
+              "RelativeDocumentMoniker": "Repisitory\\DiemsvRepo.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Repisitory\\DiemsvRepo.cs",
+              "RelativeToolTip": "Repisitory\\DiemsvRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:50:55.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDiemsvRepo.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Repisitory\\IDiemsvRepo.cs",
+              "RelativeDocumentMoniker": "Repisitory\\IDiemsvRepo.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Repisitory\\IDiemsvRepo.cs",
+              "RelativeToolTip": "Repisitory\\IDiemsvRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:52:37.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Main\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\Login.xaml.cs",
+              "RelativeToolTip": "Main\\Login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:41:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TopSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\TopSinhVien.cs",
+              "RelativeDocumentMoniker": "Model\\TopSinhVien.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\TopSinhVien.cs",
+              "RelativeToolTip": "Model\\TopSinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:31.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "Model\\Sinhvien.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Sinhvien.cs",
+              "RelativeToolTip": "Model\\Sinhvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:25.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Monhoc.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Monhoc.cs",
+              "RelativeDocumentMoniker": "Model\\Monhoc.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Monhoc.cs",
+              "RelativeToolTip": "Model\\Monhoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:23.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Lop.cs",
+              "RelativeDocumentMoniker": "Model\\Lop.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Lop.cs",
+              "RelativeToolTip": "Model\\Lop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:22.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Diemsv.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Diemsv.cs",
+              "RelativeDocumentMoniker": "Model\\Diemsv.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Diemsv.cs",
+              "RelativeToolTip": "Model\\Diemsv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:20.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Model\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\AssemblyInfo.cs",
+              "RelativeToolTip": "Model\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:17.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "Model\\Account.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Model\\Account.cs",
+              "RelativeToolTip": "Model\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:37:16.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Main\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "Main\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:29:39.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\App.xaml",
+              "RelativeDocumentMoniker": "Main\\App.xaml",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\App.xaml",
+              "RelativeToolTip": "Main\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T18:28:36.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Main\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\trand\\OneDrive\\Desktop\\QuanLySinhVien\\QuanLySinhVien\\Main\\AdminWindow.xaml",
+              "RelativeToolTip": "Main\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T18:28:17.126Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
