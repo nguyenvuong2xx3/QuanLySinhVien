@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\Desktop\\PRN221_WPF_StudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F68A0541-D551-4510-BC84-4AAFE7243359}|WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment.csproj|c:\\users\\nguye\\desktop\\prn221_wpf_studentscoremanagerment\\wpfsolutionstudentscoremanagerment\\wpfsolutionstudentscoremanagerment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F68A0541-D551-4510-BC84-4AAFE7243359}|WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment.csproj|solutionrelative:wpfsolutionstudentscoremanagerment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C943598B-2482-462E-83B5-963096E54405}|WPFBO\\WPFBO.csproj|c:\\users\\nguye\\desktop\\prn221_wpf_studentscoremanagerment\\wpfsolutionstudentscoremanagerment\\wpfbo\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C943598B-2482-462E-83B5-963096E54405}|WPFBO\\WPFBO.csproj|solutionrelative:wpfbo\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\PRN221_WPF_StudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFSolutionStudentScoreManagerment\\appsettings.json",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\PRN221_WPF_StudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\appsettings.json",
+              "RelativeToolTip": "WPFSolutionStudentScoreManagerment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T01:37:57.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\PRN221_WPF_StudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\WPFBO\\Lop.cs",
+              "RelativeDocumentMoniker": "WPFBO\\Lop.cs",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\PRN221_WPF_StudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\WPFBO\\Lop.cs",
+              "RelativeToolTip": "WPFBO\\Lop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:36:25.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
